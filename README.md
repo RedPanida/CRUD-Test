@@ -6,7 +6,7 @@ Package:
 - react
 - reduxjs/toolkit
 - react-dom
-- react-radux
+- react-redux
 - antd
 - ant-design/icons
 
